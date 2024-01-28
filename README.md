@@ -13,3 +13,21 @@
 
 ### 4. Processes and Concurrency
 - Unraveling the intricacies of processes and concurrency in the realm of algorithmic data science.
+
+### 5. Distributed Computation
+- The orchestration of knowledge on distributed computation principles.
+
+### 6. Similarity
+- Bridging the gap: Exploring algorithms for data similarity.
+
+### 7. MapReduce
+- Mapping and reducing complexities: An introduction to MapReduce in algorithmic data science.
+
+### 8. Clustering, Graphs/Networks I
+- Cluster analysis and network exploration: A deep dive into graphs.
+
+### 9. More Graphs 2 - Communities, PageRank Algorithm
+- Navigating through communities and understanding the influential PageRank algorithm in the realm of graphs.
+
+### 10. Databases
+- Delving into the world of databases within the context of algorithmic data science.
