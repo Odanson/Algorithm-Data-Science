@@ -1,6 +1,6 @@
 # Algorithm-Data-Science Repository Overview
 
-Welcome to the Algorithm-Data-Science repository! This repository is a comprehensive resource for mastering the intricacies of algorithmic data science. Whether you're a novice or an experienced practitioner, this collection of materials is designed to enhance your understanding and proficiency in the field.
+Welcome to the Algorithm-Data-Science. This repository is a comprehensive resource for mastering the intricacies of algorithmic data science. Whether you're a novice or an experienced practitioner, this collection of materials is designed to enhance your understanding and proficiency in the field.
 
 ## Contents
 ### 1. Data Structures and Data Formats
