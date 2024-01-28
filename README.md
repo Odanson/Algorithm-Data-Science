@@ -28,7 +28,7 @@ Welcome to the Algorithm-Data-Science. This repository is a comprehensive resour
 - Cluster analysis and network exploration: A deep dive into graphs.
 
 ### 9. More Graphs 2 - Communities, PageRank Algorithm
-- Navigating through communities and understanding the influential PageRank algorithm in the realm of graphs.
+- Navigating through communities and understanding the influential PageRank algorithm.
 
 ### 10. Databases
 - Delving into the world of databases within the context of algorithmic data science.
